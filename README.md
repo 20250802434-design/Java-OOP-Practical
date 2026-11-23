@@ -1,2 +1,2 @@
-# Java-OOP-Practical
+# Advanced Learners Activities
 Java Object Oriented Programming Practical Assignments
